@@ -46,11 +46,7 @@ Through the completion of my Computer Science program and the development of thi
 
 ## Informal Code Review
 
-<div align="center">
-
 ![Code Review](images/code_review.jpg "Code Review")
-
-</div>
 
 As part of my capstone work, I conducted a detailed code review of three core artifacts selected for enhancement in my ePortfolio. The code review was an opportunity to analyze strengths, identify weaknesses, and plan specific improvements across software design and engineering, algorithms and data structures, and databases. This process demonstrated my ability to evaluate technical artifacts critically while also applying professional standards of readability, security, and maintainability. It also allowed me to reflect on my growth in applying systematic review practices that align with industry expectations. You can view the full code review here: [Code Review Link](https://youtu.be/gmgCL0tbqUM).
 
