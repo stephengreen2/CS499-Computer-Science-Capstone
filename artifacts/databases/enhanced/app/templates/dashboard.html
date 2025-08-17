@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Welcome to the Quantigration RMA Dashboard</h2>
+<p>Use the navigation to submit a return or view reports.</p>
+<a href="{{ url_for('main.report') }}">View RMA Report by SKU</a>
+{% endblock %}

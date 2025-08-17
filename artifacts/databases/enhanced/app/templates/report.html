@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>RMA Report by SKU</h2>
+<table>
+    <tr><th>SKU</th><th>Return Count</th></tr>
+    {% for sku, count in results %}
+    <tr><td>{{ sku }}</td><td>{{ count }}</td></tr>
+    {% endfor %}
+</table>
+{% endblock %}
