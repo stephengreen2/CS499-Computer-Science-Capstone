@@ -62,6 +62,10 @@ The improvements made to this artifact align with the course outcomes. I demonst
 
 Reflecting on the process of improving this project, I gained valuable insights into software architecture and system design. One key lesson was the importance of creating software that is modular and testable, especially when simulating real-world hardware interactions. Designing unit tests for a system with simulated sensors required careful abstraction of hardware components so they could be tested independently from the rest of the system. I also learned how to incorporate fault tolerance into my designs by simulating potential sensor failures and implementing safe fallback mechanisms. Another challenge was managing user input in a simulated environment while ensuring the system remained flexible and robust. This experience deepened my understanding of how professional software engineers must balance system complexity with usability and maintainability. Overall, the process strengthened both my technical skills and my confidence in developing scalable, secure, and testable software solutions.
 
+View [Artifact One Original](https://github.com/stephengreen2/CS499-Computer-Science-Capstone/tree/main/artifacts/software-design/original).
+
+View [Artifact One Enhancement](https://github.com/stephengreen2/CS499-Computer-Science-Capstone/tree/main/artifacts/software-design/enhanced).
+
 ## Artifact Two: Algorithms and Data Structures
 
 The artifact I selected for the algorithms and data structures category is a C++ application that sorts auction bid records. Originally developed in CS 260, the project reads bid data from a CSV file and applies basic sorting logic to organize the results. While functional, the original implementation was limited in both algorithm variety and structural quality. Improving this artifact allowed me to deeply engage with core concepts in algorithms and data structures, applying best practices for modularity, complexity analysis, and user experience.
@@ -79,6 +83,10 @@ These enhancements helped me meet my planned course outcomes by demonstrating my
 
 Reflecting on the process, I learned how to balance algorithm performance with usability and maintainability. The technical challenge of designing extensible and efficient sorting logic necessitated revisiting fundamental data structures and making informed architectural decisions. Implementing benchmarking and error handling in C++ provided more profound insight into system-level thinking and performance trade-offs. Ultimately, this artifact captures my growth in designing structured, scalable, and efficient algorithmic solutions, making it a cornerstone of my ePortfolio.
 
+View [Artifact One Original](https://github.com/stephengreen2/CS499-Computer-Science-Capstone/tree/main/artifacts/algorithms/original).
+
+View [Artifact One Enhancement](https://github.com/stephengreen2/CS499-Computer-Science-Capstone/tree/main/artifacts/algorithms/enhanced).
+
 ## Artifact Three: Databases
 
 The artifact I chose to showcase my skills in databases is a Flask-based web application that manages Return Merchandise Authorizations (RMAs) within a simulated business environment. Originally developed during the DAD 220 course, this artifact started as a basic database design project involving entity relationships, schema creation, and sample queries. For the capstone enhancement, I transformed that static design into a fully functional web app that interacts dynamically with a relational MySQL database through Flask's front-end and back-end integration.
@@ -90,3 +98,7 @@ Enhancing this artifact helped me demonstrate my competency in database-driven s
 Throughout the enhancement process, I gained a deeper understanding of best practices in secure database access and automation. One key challenge was integrating stored procedures into the Flask app while maintaining separation of concerns and keeping the application architecture flexible. I also needed to restructure the original schema scripts to combine table creation and procedure definitions into a single deployment routine. Another challenge involved handling CSV ingestion and mapping foreign key dependencies while ensuring referential integrity. Solving these issues required careful planning, error handling, and iterative testing.
 
 Overall, this project deepened my appreciation for database-driven systems and the complexities involved in building robust, production-ready applications. It reflects both my technical skills and my ability to improve a system iteratively based on feedback, structured review, and professional coding standards. This artifact demonstrates my capacity to design and integrate scalable databases, automate deployments, and develop secure, efficient applications—all essential skills for a career in software development or data engineering.
+
+View [Artifact One Original](https://github.com/stephengreen2/CS499-Computer-Science-Capstone/tree/main/artifacts/databases/original).
+
+View [Artifact One Enhancement](https://github.com/stephengreen2/CS499-Computer-Science-Capstone/tree/main/artifacts/databases/enhanced).
